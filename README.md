@@ -1,5 +1,5 @@
 # Know-T
-A student database management system for teachers
+A student database management system for teachers in **python** and **mysql**
 
 
 ## Tables 
