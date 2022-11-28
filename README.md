@@ -16,7 +16,7 @@ python main.py
 
 ## Output
 
-1. Login Screen
+1. Welcome Screen
 
 ![image](https://user-images.githubusercontent.com/99627765/204253100-daf035fc-68d3-4c90-b7fe-38b3ea30262c.png)
 
