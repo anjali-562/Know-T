@@ -13,6 +13,7 @@ pip install matplotlib
 ```
 ## Execute
 ```
+cd knowt
 python main.py
 ```
 
