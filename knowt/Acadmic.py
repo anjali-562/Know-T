@@ -1,4 +1,4 @@
-#PYTHON MODULE: PURCHASES
+
 import mysql.connector
 
 def get_connection_to_database():
